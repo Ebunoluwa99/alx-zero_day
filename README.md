@@ -1,3 +1,3 @@
 My first readme
 
-and it's been update
+and it's been updated
